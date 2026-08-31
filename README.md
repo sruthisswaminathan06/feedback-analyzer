@@ -1,6 +1,3 @@
-
-
-```markdown
 # 📊 Customer Feedback Analyzer
 
 An end-to-end, production-grade AI platform built to analyze customer reviews in real time using structured sentiment analysis.
@@ -131,9 +128,7 @@ Your browser will automatically open `http://localhost:8501`.
 This repository contains a `.gitignore` pre-configured to ensure local environment files (`.env`) and database instances (`feedback.db`) are excluded from version control, maintaining complete API key safety.
 
 ```
-
----
-
+```
 ### Steps to Commit and Push:
 
 1. Save `README.md` in VS Code.
